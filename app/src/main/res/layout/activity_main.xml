@@ -30,7 +30,7 @@
             android:inputType="text"
             android:minHeight="48dp"
             android:textAlignment="center"
-            android:textColorHint="#8D6E63"
+            android:textColorHint="#795548"
             app:layout_constraintBottom_toTopOf="@+id/cardButton"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
