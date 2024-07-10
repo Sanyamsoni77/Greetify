@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Greetify</string>
+    <string name="create_birthday_card">Create Birthday Card</string>
+    <string name="enter_the_name">Enter the Name</string>
+    <string name="happy_birthday">Happy Birthday</string>
+    <string name="todo">TODO</string>
+    <string name="birthday_person_name">Birthday Person Name</string>
+</resources>
